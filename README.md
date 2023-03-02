@@ -1,4 +1,4 @@
 # git_training
 
 
-this is my first pratice
+this is second practice
